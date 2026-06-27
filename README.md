@@ -1,6 +1,6 @@
-Kaggle python notebook: https://www.kaggle.com/code/prachi232005/ottermap-assignment-train
-HuggingFace app: https://huggingface.co/spaces/prachi2396/turf-detection
-drive link(contains output, weights, technical summary, external .tif images, data set): https://drive.google.com/drive/folders/1Vc4Z_In9h-auve-XR120ppo8se2IUCBd?usp=sharing
+# Kaggle python notebook: https://www.kaggle.com/code/prachi232005/ottermap-assignment-train
+# HuggingFace app: https://huggingface.co/spaces/prachi2396/turf-detection
+# drive link(contains output, weights, technical summary, external .tif images, data set): https://drive.google.com/drive/folders/1Vc4Z_In9h-auve-XR120ppo8se2IUCBd?usp=sharing
 # Turf Detection — Aerial Imagery Segmentation
 
 MobileSAM fine-tuned to detect turf/grass from high-resolution aerial imagery. Produces GeoJSON polygons and mask GeoTIFFs compatible with downstream GIS workflows.
